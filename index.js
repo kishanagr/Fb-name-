@@ -13,7 +13,7 @@ try {
 
 // ✅ Group Info
 const GROUP_THREAD_ID = "1841994756390676";
-const LOCKED_GROUP_NAME = "🤪 RAJ URF VICKY KI MUMMY CHUD KAR DAFAN";
+const LOCKED_GROUP_NAME = "🤪 RAJ URF VICKY BHIKHARI CHUDKE DAFAN 😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
