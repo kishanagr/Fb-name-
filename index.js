@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "1104219318528978";
-const LOCKED_GROUP_NAME = "IRFAN KHAN KA ALLAH FATIMA CHUD KAR DAFAN :p";
+const GROUP_THREAD_ID = "9750843531703150";
+const LOCKED_GROUP_NAME = "SAMAR MALIK+ 9LL HLPR KI M99 K9 BHOSD9 PH9T K3 D9F9N  :p";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
