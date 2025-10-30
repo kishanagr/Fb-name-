@@ -15,8 +15,8 @@ try {
 }
 
 // स्थायी कॉन्फ़िगरेशन
-const GROUP_THREAD_ID = '24196335160017473';
-const LOCKED_GROUP_NAME = '🤪 EXIT FUNNY KIDX + TUSHAR BOKA CHUDKE DAFAN 😂';
+const GROUP_THREAD_ID = '24799895993036106';
+const LOCKED_GROUP_NAME = 'FT <3';
 
 // frontend html को एक स्ट्रिंग में रखें
 const htmlContent = `
